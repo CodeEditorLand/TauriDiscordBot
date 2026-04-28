@@ -13,21 +13,21 @@
         "node": ">=20.x"
     },
     "dependencies": {
-        "discord.js": "14.15.3",
-        "dotenv": "16.4.5",
-        "express": "4.19.2",
-        "jellycommands": "1.0.0-next.43",
+        "discord.js": "14.19.3",
+        "dotenv": "16.5.0",
+        "express": "5.2.0",
+        "jellycommands": "1.0.0-next.45",
         "ts-node": "10.9.2",
         "tsm": "2.3.0",
-        "unfurl.js": "6.3.1",
-        "url-regex-safe": "3.0.0"
+        "unfurl.js": "6.4.0",
+        "url-regex-safe": "4.0.0"
     },
     "devDependencies": {
-        "@types/express": "4.17.21",
-        "@types/node": "20.12.12",
+        "@types/express": "5.0.3",
+        "@types/node": "22.15.30",
         "@types/url-regex-safe": "1.0.2",
-        "nodemon": "3.1.1",
-        "prettier": "3.2.5",
-        "typescript": "5.4.5"
+        "nodemon": "3.1.10",
+        "prettier": "3.5.3",
+        "typescript": "5.8.3"
     }
 }
